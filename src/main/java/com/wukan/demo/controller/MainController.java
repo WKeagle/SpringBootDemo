@@ -10,6 +10,6 @@ public class MainController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "this is the first demo.";
+        return "this is the first github demo.";
     }
 }
